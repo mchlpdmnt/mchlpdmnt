@@ -18,8 +18,8 @@ I'm a **Computer Science** student & aspiring developer — building things, bre
 
 ## ✒️ Projects
 
-- My Web Portfolio ![Currently working...](https://img.shields.io/badge/label-message-color)
-- DepEd School Systems ![Hiatus](https://img.shields.io/badge/label-message-color)
+- My Web Portfolio ![Working](https://img.shields.io/badge/Working...-000000)
+- DepEd School Systems ![Hiatus](https://img.shields.io/badge/Hiatus-000000)
 
 ## 🕹️ What I'm up to?
 
