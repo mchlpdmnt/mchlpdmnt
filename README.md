@@ -16,6 +16,11 @@ I'm a **Computer Science** student & aspiring developer — building things, bre
 
 ---
 
+## ✒️ Projects
+
+- My Web Portfolio
+- DepEd School Systems
+
 ## 🕹️ What I'm up to?
 
 - Learning JavaScript & SQL
