@@ -18,8 +18,8 @@ I'm a **Computer Science** student & aspiring developer — building things, bre
 
 ## 🕹️ What I'm up to
 
-📖 Learning JavaScript & SQL
-🔨 Working on personal projects to sharpen my skills
-🤝 Always open to connecting with other learners
+- Learning JavaScript & SQL
+- Working on personal projects to sharpen my skills
+-  Always open to connecting with other learners
 
 ---
