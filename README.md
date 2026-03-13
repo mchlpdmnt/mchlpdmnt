@@ -1,16 +1,25 @@
-## Hi there 👋
+# ♟️ Michael Pedemonte ・ 通顿
 
-<!--
-**mchlpdmnt/mchlpdmnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science** student & aspiring developer — building things, breaking things, learning from both.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📓 Tech Stack
+
+**Comfortable with**
+
+![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) 
+
+**Currently picking up**
+
+![JavaScript](https://skillicons.dev/icons?i=js) ![SQL](https://skillicons.dev/icons?i=mysql)
+
+---
+
+## 🕹️ What I'm up to
+
+- 📖 Learning JavaScript & SQL
+- 🔨 Working on personal projects to sharpen my skills
+- 🤝 Always open to connecting with other learners
+
+---
