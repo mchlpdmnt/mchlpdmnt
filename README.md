@@ -1,4 +1,4 @@
-# 🍂 Michael Pedemonte o7
+# 🍂 Michael Pedemonte 
 
 I'm a **Computer Science** student & aspiring developer — building things, breaking things, learning from both.
 
