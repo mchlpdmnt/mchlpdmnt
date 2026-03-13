@@ -1,4 +1,4 @@
-# ♟️ Michael Pedemonte ・ 通顿
+# Michael Pedemonte 🦦
 
 I'm a **Computer Science** student & aspiring developer — building things, breaking things, learning from both.
 
