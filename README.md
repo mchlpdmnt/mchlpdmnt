@@ -12,7 +12,7 @@ I'm a **Computer Science** student & aspiring developer — building things, bre
 
 **Currently picking up:**
 
-![JavaScript](https://skillicons.dev/icons?i=js) ![SQL](https://skillicons.dev/icons?i=mysql) ![TailWind](https://skillicons.dev/icons?i=tailwind)
+![JavaScript](https://skillicons.dev/icons?i=js) ![SQL](https://skillicons.dev/icons?i=mysql) ![TailWind](https://skillicons.dev/icons?i=tailwind) ![React](https://skillicons.dev/icons?i=react)
 
 ---
 
