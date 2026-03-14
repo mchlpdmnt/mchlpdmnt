@@ -12,7 +12,7 @@ I'm a **Computer Science** student & aspiring developer — building things, bre
 
 **Currently picking up:**
 
-![JavaScript](https://skillicons.dev/icons?i=js) ![SQL](https://skillicons.dev/icons?i=mysql) ![TailWind](https://skillicons.dev/icons?i=tailwind) ![React](https://skillicons.dev/icons?i=react)
+![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![SQL](https://skillicons.dev/icons?i=mysql) ![TailWind](https://skillicons.dev/icons?i=tailwind) ![React](https://skillicons.dev/icons?i=react) 
 
 ---
 
@@ -23,8 +23,7 @@ I'm a **Computer Science** student & aspiring developer — building things, bre
 
 ## 🕹️ What I'm up to?
 
-- Learning JavaScript & SQL
-- Working on personal projects to sharpen my skills
-- Always open to connecting with other learners
+- Working on personal projects to sharpen my skills.
+- Always open to connecting with other learners.
 
 ---
