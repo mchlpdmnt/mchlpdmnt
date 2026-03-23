@@ -7,7 +7,7 @@
     <td width="70%">
       
 ### Introduction:
-I'm a computer science student aspiring as Software Developer and AI. I love breaking problems down to first principles and building practical, efficient solutions. Outside of coding, I enjoy strategy and creative games like Civilization, Humankind, Minecraft, and Terraria, and I express myself through singing. I’m always learning, experimenting, and collaborating on projects that challenge me and expand my skills.
+I'm a computer science student aspiring as **Software Developer** and **AI**. I love breaking problems down to first principles and building practical, efficient solutions. Outside of coding, I enjoy strategy and creative games like ***Sid Meier's Civilization Series, Age of Empires, Manor Lords,*** and ***Minecraft,*** and I express myself through singing. I’m always learning, experimenting, and collaborating on projects that challenge me and expand my skills.
     </td>
     <td width="30%" align="right">
       <img src="https://github.com/user-attachments/assets/57d70d30-1cc9-4e13-bb02-7c135c2876e8" />
