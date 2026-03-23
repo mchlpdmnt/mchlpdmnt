@@ -1,6 +1,6 @@
 # Michael Pedemonte 
 
-I'm a **Computer Science** student & aspiring developer — building things, breaking things, learning from both.
+I’m a computer science student aspiring as a full-stack development, data analysis, and AI. I love breaking problems down to first principles and building practical, efficient solutions. Outside of coding, I enjoy strategy and creative games like Civilization, Humankind, Minecraft, and Terraria, and I express myself through singing. I’m always learning, experimenting, and collaborating on projects that challenge me and expand my skills.
 
 ---
 
