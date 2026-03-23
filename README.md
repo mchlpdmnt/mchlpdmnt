@@ -1,4 +1,4 @@
-<img width="3780" height="1890" alt="Image" src="https://github.com/user-attachments/assets/559d15b8-0d82-4479-9269-4516923d8ef2" />
+<img width="3780" height="800" alt="Image" src="https://github.com/user-attachments/assets/559d15b8-0d82-4479-9269-4516923d8ef2" />
 
 # Hi! I'm Michael Pedemonte, it's nice having you here in my profile! 
 
