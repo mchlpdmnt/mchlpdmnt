@@ -28,7 +28,7 @@ A computer science student aspiring as a full-stack development, data analysis, 
     </td>
     <td width="30%" align="right">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra">
+        <img src="https://github-readme-stats.vercel.app/api?username=mchlpdmnt">
       </a>
     </td>
   </tr>
