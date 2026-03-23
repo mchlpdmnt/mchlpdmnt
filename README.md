@@ -28,9 +28,7 @@ A computer science student aspiring as a full-stack development, data analysis, 
     </td>
     
     <td width="30%" align="right">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=mchlpdmnt">
-      </a>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mchlpdmnt)](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
 </table>
@@ -38,6 +36,6 @@ A computer science student aspiring as a full-stack development, data analysis, 
 # Tech Stack:
 ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mchlpdmnt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
