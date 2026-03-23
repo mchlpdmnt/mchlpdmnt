@@ -1,6 +1,6 @@
 <img width="3780" height="420" alt="Image" src="https://github.com/user-attachments/assets/559d15b8-0d82-4479-9269-4516923d8ef2" />
 
-# Hi! I'm Michael Pedemonte, it's nice having you here in my profile! 
+# Hi! It's nice having you here in my profile! 
 
 A computer science student aspiring as a full-stack development, data analysis, and AI. I love breaking problems down to first principles and building practical, efficient solutions. Outside of coding, I enjoy strategy and creative games like Civilization, Humankind, Minecraft, and Terraria, and I express myself through singing. I’m always learning, experimenting, and collaborating on projects that challenge me and expand my skills.
 
