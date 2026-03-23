@@ -1,4 +1,4 @@
-<img width="200" alt="Image" src="https://github.com/user-attachments/assets/559d15b8-0d82-4479-9269-4516923d8ef2" />
+<img height="200" alt="Image" src="https://github.com/user-attachments/assets/559d15b8-0d82-4479-9269-4516923d8ef2" />
 
 # Hi! It's nice having you here in my profile! 
 
