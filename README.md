@@ -19,7 +19,6 @@ I'm a **Computer Science** student & aspiring developer — building things, bre
 ## ✒️ Projects
 
 - My Web Portfolio         |  `Working...`
-- School-Based Web System     |  `Hiatus`
 
 ## 🕹️ What I'm up to?
 
