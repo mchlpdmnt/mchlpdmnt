@@ -10,7 +10,7 @@
 A computer science student aspiring as a full-stack development, data analysis, and AI. I love breaking problems down to first principles and building practical, efficient solutions. Outside of coding, I enjoy strategy and creative games like Civilization, Humankind, Minecraft, and Terraria, and I express myself through singing. I’m always learning, experimenting, and collaborating on projects that challenge me and expand my skills.
     </td>
     <td width="30%" align="right">
-      <img src="your-image.png" alt="Preview" width="300">
+      <img src="https://github.com/user-attachments/assets/19664478-bce1-4916-8e8a-1821b810f823" />" alt="Preview" width="300">
     </td>
   </tr>
 </table>
