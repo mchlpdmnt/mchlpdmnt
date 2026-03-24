@@ -17,3 +17,15 @@ I'm a computer science student aspiring as **Software Developer** and **AI**. I 
 
 ---
 
+<h3 align="center">T E C H N O L O G I E S</h3> 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,java,cs,html,css,js,mysql" />
+  </a>  
+</p>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchlpdmnt&title_color=000000&layout=compact)
+
