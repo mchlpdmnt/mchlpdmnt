@@ -26,8 +26,3 @@ I'm a computer science student aspiring as **Software Developer** and **AI**. I 
 </p>
 
 ---
-
-<h3 align="center">G I T H U B</h3> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchlpdmnt&title_color=000000&layout=compact)
-
