@@ -24,5 +24,3 @@ I'm a computer science student aspiring as **Software Developer** and **AI**. I 
     <img src="https://skillicons.dev/icons?i=arduino,cpp,java,cs,html,css,js,mysql" />
   </a>  
 </p>
-
----
