@@ -21,6 +21,6 @@ I'm a computer science student aspiring as **Software Developer** and **AI**. I 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,java,cs,html,css,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,java,cs,html,css,js,ts,tailwind,next,mysql,supabase,firebase" />
   </a>  
 </p>
