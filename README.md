@@ -4,7 +4,7 @@ I'm Michael, a Full-Stack Developer that solves problems with modern solutions u
 
 
 ```js
-const github = {
+const me = {
   role: "Full-Stack Developer",
   focus: ["clean APIs", "light tech stacks", "AI workflows"],
   currentlyExploring: "local models on edge devices",
